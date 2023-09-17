@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/34e2391334d75246d9c86c0a470a4b5606ab4dc84fb803930bc89635b4fce9c9/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966)
+
 <h1 align="center">Hello 👋, I'm Satya Swarup Sahu</h1>
 <h3 align="center">A passionate frontend developer and Problem Solver from India</h3>
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
