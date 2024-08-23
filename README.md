@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satya-s3&label=Profile%20views&color=0e75b6&style=flat"
             alt="satya-s3" /> </p>
 
-- 👨‍💻 You can Visit My Portfolio on [https://satya-s3.github.io/Portfolio/](https://satya-s3.github.io/Portfolio/)
+- 👨‍💻 You can Visit My Portfolio on [https://the-portfolyo-nu.vercel.app/](https://the-portfolyo-nu.vercel.app/)
 
 - 📫 How to reach me **satyasahu644@gmail.com**
 
