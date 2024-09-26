@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello 👋, I'm Satya</h1>
 <h3 align="center">A passionate Full stack developer and Problem Solver from India</h3>
-<img align="right" alt="coding" width="350" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="350" src="https://indiabookofrecords.in/wp-content/uploads/2021/09/Satya-Swarup-Sahu.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satya-s3&label=Profile%20views&color=0e75b6&style=flat"
             alt="satya-s3" /> </p>
